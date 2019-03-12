@@ -9,3 +9,4 @@ def is_leap(year):
 
 year = int(raw_input())
 print (is_leap(year))
+s
